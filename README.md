@@ -21,29 +21,36 @@
 
 <table><tr><td valign="top" width="50%">
 
-- 🎯 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐖𝐨𝐫𝐤 : I deliver robust, scalable, and maintainable solutions.  
+- 👋 𝐄𝐱𝐩𝐞𝐫𝐭 : Senior AI/ML Engineer with 5+ Years Extensive Experience                 
   
 
-- 💬 𝐐𝐮𝐢𝐜𝐤 𝐑𝐞𝐩𝐥𝐲 : Fast and clear communication to ensure project success.  
+- 🚀 𝐀𝐈 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭 : Specializing in AI/ML, Computer Vision, and Full-Stack AI Solutions  
   
 
-- 💯 𝟏𝟎𝟎% 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐅𝐮𝐥𝐟𝐢𝐥𝐥𝐦𝐞𝐧𝐭 : I prioritize your satisfaction with every project.  
+- 💡 𝐏𝐢𝐨𝐧𝐞𝐞𝐫 : Passionate about Building Intelligent Systems that Solve Real-world Problems.
   
 
-- 📚 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫 : Constant learner, open-source contributor, and always up for collaboration on exciting projects. 
+- 🤖 𝐋𝐢𝐧𝐠𝐮𝐢𝐬𝐭 : Exploring NLP & LLMs, with a Growing Interest in Language Models.
   
 
-- 🤝 𝐋𝐨𝐧𝐠 𝐓𝐞𝐫𝐦 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧 : I aim for long-term working relationships with my clients.  
+- 🌐 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐨𝐫 : Bridging the Gap between AI Development and Deployment across the Tech Stack. 
 
 
 </td><td valign="top" width="50%">
 
-👋 AI Engineer | 5+ Years Experience
-🚀 Specializing in AI/ML, Computer Vision, and Full-Stack AI Solutions
-💡 Passionate about building intelligent systems that solve real-world problems.
-🤖 Exploring NLP & LLMs, with a growing interest in language models.
-🌐 Bridging the gap between AI development and deployment across the tech stack.
+- 🎯 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐖𝐨𝐫𝐤 : I Deliver Robust, Scalable, and Maintainable Solutions.  
+  
 
+- 💬 𝐐𝐮𝐢𝐜𝐤 𝐑𝐞𝐩𝐥𝐲 : Fast and Clear Communication to Ensure Project Success.  
+  
+
+- 💯 𝟏𝟎𝟎% 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐅𝐮𝐥𝐟𝐢𝐥𝐥𝐦𝐞𝐧𝐭 : I Prioritize your satisfaction with Every Project.  
+  
+
+- 📚 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫 : Constant Learner, Open-Source Contributor, and always up for Collaboration on Exciting Projects. 
+  
+
+- 🤝 𝐋𝐨𝐧𝐠 𝐓𝐞𝐫𝐦 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧 : I Aim for Long-Term Working Relationships with My Clients.  
 
 </td></tr></table>  
 
@@ -220,21 +227,6 @@
 <img src="https://github.com/harperanthony/harperanthony/blob/main/colorful_line.gif">
 
 <br/>
-
-<h1><img src = "https://github.com/harperanthony/harperanthony/blob/main/charts.gif" width = 35px height = 35px> 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐞</h1>
-
-<table align="center">
-  <tr>
-    <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=harperanthony" alt="harperanthony" /></a>
-    </td>
-    <td align="center" width="60%">
-        <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=harperanthony&theme=transparent&border_radius=9.4&border=5745EB00&stroke=343A40&fire=EB5454" alt="harperanthony" />
-    </td>
-  </tr>
-</table>
-
-<br/>  
 
 <img src="https://github.com/harperanthony/harperanthony/blob/main/colorful_line.gif">
 
