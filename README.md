@@ -227,21 +227,6 @@
 
 <br/>
 
-<h1><img src = "https://github.com/harperanthony/harperanthony/blob/main/charts.gif" width = 35px height = 35px> 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐞</h1>
-
-<table align="center">
-  <tr>
-    <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=harperanthony" alt="harperanthony" /></a>
-    </td>
-    <td align="center" width="60%">
-        <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=harperanthony&theme=transparent&border_radius=9.4&border=5745EB00&stroke=343A40&fire=EB5454" alt="harperanthony" />
-    </td>
-  </tr>
-</table>
-
-<br/>  
-
 <img src="https://github.com/harperanthony/harperanthony/blob/main/colorful_line.gif">
 
 <br/>
