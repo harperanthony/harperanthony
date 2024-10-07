@@ -21,7 +21,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-- 👋 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 : Senior AI Engineer with over 5 Years Experienc
+- 👋 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 : Senior AI Engineer with over 5 Years Experience
   
 
 - 🚀 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭 : Specializing in AI/ML, Computer Vision, and Full-Stack AI Solutions
