@@ -51,7 +51,7 @@
 
 - 📚 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫 : Constant learner, open-source contributor, and always up for collaboration on exciting projects
 
-</td></tr></table>  
+</td></tr></table>
 
 <br/>  
 
