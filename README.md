@@ -21,29 +21,35 @@
 
 <table><tr><td valign="top" width="50%">
 
-- 🎯 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐖𝐨𝐫𝐤 : I deliver robust, scalable, and maintainable solutions.  
+- 👋 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 : Senior AI Engineer with over 5 Years Experience 
   
 
-- 💬 𝐐𝐮𝐢𝐜𝐤 𝐑𝐞𝐩𝐥𝐲 : Fast and clear communication to ensure project success.  
+- 🚀 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭 : Specializing in AI/ML, Computer Vision, and Full-Stack AI Solutions
   
 
-- 💯 𝟏𝟎𝟎% 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐅𝐮𝐥𝐟𝐢𝐥𝐥𝐦𝐞𝐧𝐭 : I prioritize your satisfaction with every project.  
+- 💡 𝐏𝐫𝐨𝐛𝐥𝐞𝐦-𝐒𝐨𝐥𝐯𝐞𝐫 : Passionate about building intelligent systems that solve real-world problems
   
 
-- 📚 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫 : Constant learner, open-source contributor, and always up for collaboration on exciting projects. 
+- 🤖 𝐋𝐢𝐧𝐠𝐮𝐢𝐬𝐭 : Exploring NLP & LLMs, with a growing interest in language models
   
 
-- 🤝 𝐋𝐨𝐧𝐠 𝐓𝐞𝐫𝐦 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧 : I aim for long-term working relationships with my clients.  
-
+- 🌐 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐨𝐫 : Bridging the gap between AI development and deployment across the tech stack
 
 </td><td valign="top" width="50%">
 
-👋 AI Engineer | 5+ Years Experience
-🚀 Specializing in AI/ML, Computer Vision, and Full-Stack AI Solutions
-💡 Passionate about building intelligent systems that solve real-world problems.
-🤖 Exploring NLP & LLMs, with a growing interest in language models.
-🌐 Bridging the gap between AI development and deployment across the tech stack.
+- 🎯 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐖𝐨𝐫𝐤 : I deliver robust, scalable, and maintainable solutions
+  
 
+- 💬 𝐐𝐮𝐢𝐜𝐤 𝐑𝐞𝐩𝐥𝐲 : Fast and clear communication to ensure project success
+  
+
+- 💯 𝟏𝟎𝟎% 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐅𝐮𝐥𝐟𝐢𝐥𝐥𝐦𝐞𝐧𝐭 : I prioritize your satisfaction with every project
+  
+
+- 📚 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫 : Constant learner, open-source contributor, and always up for collaboration on exciting projects
+  
+
+- 🤝 𝐋𝐨𝐧𝐠 𝐓𝐞𝐫𝐦 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧 : I aim for long-term working relationships with my clients
 
 </td></tr></table>  
 
