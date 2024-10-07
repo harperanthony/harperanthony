@@ -21,7 +21,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-- 👋 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 : Senior AI Engineer with over 5 Years Experience 
+- 👋 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 : Senior AI Engineer with over 5 Years Experience
   
 
 - 🚀 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭 : Specializing in AI/ML, Computer Vision, and Full-Stack AI Solutions
@@ -46,10 +46,10 @@
 - 💯 𝟏𝟎𝟎% 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐅𝐮𝐥𝐟𝐢𝐥𝐥𝐦𝐞𝐧𝐭 : I prioritize your satisfaction with every project
   
 
-- 📚 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫 : Constant learner, open-source contributor, and always up for collaboration on exciting projects
-  
-
 - 🤝 𝐋𝐨𝐧𝐠 𝐓𝐞𝐫𝐦 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧 : I aim for long-term working relationships with my clients
+
+
+- 📚 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫 : Constant learner, open-source contributor, and always up for collaboration on exciting projects
 
 </td></tr></table>  
 
