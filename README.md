@@ -21,13 +21,13 @@
 
 <table><tr><td valign="top" width="50%">
 
-- 👋 𝐄𝐱𝐩𝐞𝐫𝐭 : Senior AI/ML Engineer with 5+ Years Extensive Experience                 
+- 👋 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 : Senior AI/ML Engineer with 5+ Years Extensive Experience                 
   
 
-- 🚀 𝐀𝐈 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭 : Specializing in AI/ML, Computer Vision, and Full-Stack AI Solutions  
+- 🚀 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭 : Specializing in AI/ML, Computer Vision, and Full-Stack AI Solutions  
   
 
-- 💡 𝐏𝐢𝐨𝐧𝐞𝐞𝐫 : Passionate about Building Intelligent Systems that Solve Real-world Problems.
+- 💡 𝐏𝐫𝐨𝐛𝐥𝐞𝐦-𝐒𝐨𝐥𝐯𝐫 : Passionate about Building Intelligent Systems that Solve Real-world Problems.
   
 
 - 🤖 𝐋𝐢𝐧𝐠𝐮𝐢𝐬𝐭 : Exploring NLP & LLMs, with a Growing Interest in Language Models.
