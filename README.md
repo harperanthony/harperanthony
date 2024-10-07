@@ -227,10 +227,6 @@
 
 <br/>
 
-<img src="https://github.com/harperanthony/harperanthony/blob/main/colorful_line.gif">
-
-<br/>
-
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=harperanthony&&style=flat-square" align="right" />
 </div>  
