@@ -1,14 +1,10 @@
-<h1 align="center"> 𝐇𝐢 👋 , 𝐈 𝐚𝐦 𝐚 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 👍 </h1>  
+<h1 align="center"> 𝐇𝐢 👋 𝐈 𝐚𝐦 𝐚 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 👍 </h1>  
 
 <br/>
 
 <div align="center">
   <img align="stretch" src="https://github-widgetbox.vercel.app/api/profile?username=harperanthony&data=followers,repositories,stars,commits&theme=onedark&title_color=000000">
 </div>
-
-<br/>
-
-<img src="https://github.com/harperanthony/harperanthony/blob/main/colorful_line.gif">
 
 <br/>
 
@@ -54,10 +50,6 @@
 </td></tr></table>
 
 <br/>  
-
-<img src="https://github.com/harperanthony/harperanthony/blob/main/colorful_line.gif">
-
-<br/> 
 
 <h1><img src = "https://github.com/harperanthony/harperanthony/blob/main/skill.gif" width = 32px> 𝐌𝐲 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭𝐬</h1>
 
@@ -222,10 +214,6 @@
 </table>
 
 <br/>  
-
-<img src="https://github.com/harperanthony/harperanthony/blob/main/colorful_line.gif">
-
-<br/>
 
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=harperanthony&&style=flat-square" align="right" />
