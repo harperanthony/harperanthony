@@ -1,4 +1,4 @@
-<h1 align="center"> 𝐇𝐢 👋 𝐈 𝐚𝐦 𝐚 𝐒𝐞𝐧𝐢𝐨𝐫 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 👍 </h1>  
+<h1 align="center"> 𝐇𝐢 👋 𝐈 𝐚𝐦 𝐚 𝐒𝐞𝐧𝐢𝐨𝐫 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 & 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 👍 </h1>  
 
 <br/>
 
@@ -17,7 +17,8 @@
 
 <table><tr><td valign="top" width="50%">
 
-- 👋 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 : Senior AI Engineer with over 5 Years Experience
+
+- 👋 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 : Senior Full Stack & AI Engineer with over 5 Years Experience
   
 
 - 🚀 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭 : Specializing in AI/ML, Computer Vision, and Full-Stack AI Solutions
@@ -31,7 +32,9 @@
 
 - 🌐 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐨𝐫 : Bridging the gap between AI development and deployment across the tech stack
 
+
 </td><td valign="top" width="50%">
+
 
 - 🎯 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐖𝐨𝐫𝐤 : I deliver robust, scalable, and maintainable solutions
   
@@ -46,6 +49,7 @@
 
 
 - 📚 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫 : Constant learner, open-source contributor, and always up for collaboration on exciting projects
+
 
 </td></tr></table>
 
